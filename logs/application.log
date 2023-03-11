@@ -1,0 +1,7 @@
+23-02-2023 22:05:26.279 [restartedMain] INFO  c.b.e.EbankingBackendApplication.logStarting - Starting EbankingBackendApplication on WINDELL-9TB0PEO with PID 17360 (C:\data\ebanking_backend\target\classes started by User in C:\data\ebanking_backend)
+23-02-2023 22:05:26.284 [restartedMain] INFO  c.b.e.EbankingBackendApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+23-02-2023 22:05:31.231 [restartedMain] INFO  c.b.e.EbankingBackendApplication.logStarted - Started EbankingBackendApplication in 5.522 seconds (JVM running for 6.215)
+23-02-2023 22:05:43.274 [http-nio-8088-exec-3] INFO  c.b.e.web.CustomerController.getCustomer - customer affiché
+23-02-2023 22:05:48.126 [http-nio-8088-exec-4] INFO  c.b.e.web.CustomerController.getCustomers - list customers affiché
+23-02-2023 22:05:48.223 [http-nio-8088-exec-4] INFO  c.b.e.s.BankAccountServiceImpl.listCustomers - [CustomerDto(id=1, name=ghassen, email=boussaaghassen2015@gmail.com)]
+23-02-2023 22:07:58.310 [http-nio-8088-exec-1] INFO  c.b.e.web.CustomerController.getCustomer - customer affiché
